@@ -1,0 +1,15 @@
+### JetBrains IDE
+.idea/
+
+### Python
+*.pyc
+
+### Virtual Environment
+venv/
+.venv/
+
+### Others
+*.txt
+
+### Exclude the following files
+!requirements.txt
